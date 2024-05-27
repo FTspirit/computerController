@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "computerController", "computerController\computerController.csproj", "{E792B7B6-375A-4017-807B-6C6A80261B73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E792B7B6-375A-4017-807B-6C6A80261B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E792B7B6-375A-4017-807B-6C6A80261B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E792B7B6-375A-4017-807B-6C6A80261B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E792B7B6-375A-4017-807B-6C6A80261B73}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC3C668E-043A-476A-AA63-8CF731D54B19}
+	EndGlobalSection
+EndGlobal
